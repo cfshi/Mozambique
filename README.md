@@ -6,4 +6,9 @@ _Questions 2:  progress of MC.  Since Mozambique is among the riskiest countries
 
 Method:  DHS's AIS 2015 and 2009
 
+AIS moduals:  
+1. countries with AIS: https://dhsprogram.com/data/available-datasets.cfm
+2. AIS questionnairs:  https://dhsprogram.com/pubs/pdf/AISQ1/AIS_Individual_QRE_DHS6_8Nov2011.pdf
+3. AIS interview manual: https://dhsprogram.com/pubs/pdf/AISQ1/AIS_Individual_QRE_DHS6_8Nov2011.pdf
+
 
